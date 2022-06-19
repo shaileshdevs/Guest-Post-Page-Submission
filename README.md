@@ -1,4 +1,4 @@
-# guest-post-page-subsmission
+# Guest Post Page Subsmission WordPress Plugin
 
 There are two shortcodes in this plugin.
 
