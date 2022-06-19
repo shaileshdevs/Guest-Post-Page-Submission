@@ -185,7 +185,7 @@ if ( ! class_exists( 'Gpps_Post_Pending_List' ) ) {
 					if ( $post_id > 0 ) {
 						// If valid post id.
 						$post_data = array(
-							'ID' => $post_id,
+							'ID'          => $post_id,
 							'post_status' => 'publish',
 						);
 
