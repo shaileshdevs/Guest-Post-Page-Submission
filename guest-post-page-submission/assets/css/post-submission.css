@@ -1,0 +1,19 @@
+.gpps-form-title {
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+.gpps-post-form-submit {
+    margin: 1em 0;
+    width: 100%;
+}
+
+.invalid-feedback-wrapper, .valid-feedback-wrapper {
+    display: none;
+}
+
+.invalid-feedback, .valid-feedback {
+    font-size: 15px;
+    display: block;
+    font-weight: 800;
+}
